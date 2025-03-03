@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Philip Garcia</h1>
 <h3 align="center">I'm an experienced Web Developer with expertise in using ASP.Net Core, ASP.Net Core API, C#, SQL Server, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. With 3+ years experience as a professional Website Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ip33haa&label=Profile%20views&color=0e75b6&style=flat" alt="ip33haa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ip33haa" alt="ip33haa" /></a> </p>
-
 - 🔭 I’m currently working on [API with Clean Architecture and CQRS](https://github.com/ip33haa/API-Template)
 
 - 🌱 I’m currently learning **React and Nextjs**
@@ -14,15 +10,6 @@
 - 🤝 I’m looking for help with [API with Clean Architecture and CQRS](https://github.com/ip33haa/API-Template)
 
 - 📫 How to reach me **johnphilip.garcia27@gmail.com**
-
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ip33haa&show_icons=true&locale=en&layout=compact" alt="ip33haa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ip33haa&show_icons=true&locale=en" alt="ip33haa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ip33haa&" alt="ip33haa" /></p>
 
 
 ###
@@ -39,8 +26,14 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@liplipcraft3213" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+</a>
+
+<a href="https://www.linkedin.com/in/john-philip-g-01704b210/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
 </div>
 
 ###
