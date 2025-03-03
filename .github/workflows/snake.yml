@@ -3,12 +3,10 @@ name: Generate snake animation
 on:
   schedule:
     - cron: "0 */12 * * *" # Runs every 12 hours
-
   workflow_dispatch:
-
   push:
     branches:
-      - master
+      - main  # Change to `master` if your branch is named `master`
 
 jobs:
   generate:
@@ -19,12 +17,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetches the entire commit history
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
+          # Ensures all commit history is used
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
