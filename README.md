@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Philip Garcia</h1>
 <h3 align="center">I'm an experienced Web Developer with expertise in using ASP.Net Core, ASP.Net Core API, C#, SQL Server, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. With 3+ years experience as a professional Website Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
 
-- 🔭 I’m currently working on [API with Clean Architecture and CQRS]([https://github.com/ip33haa/API-Template](https://github.com/ip33haa/My.API.Template))
+- 🔭 I’m currently working on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
 - 🌱 I’m currently learning **React and Nextjs**
 
-- 👯 I’m looking to collaborate on [API with Clean Architecture and CQRS]([https://github.com/ip33haa/API-Template](https://github.com/ip33haa/My.API.Template))
+- 👯 I’m looking to collaborate on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
-- 🤝 I’m looking for help with [API with Clean Architecture and CQRS]([https://github.com/ip33haa/API-Template](https://github.com/ip33haa/My.API.Template))
+- 🤝 I’m looking for help with [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
 - 📫 How to reach me **johnphilip.garcia27@gmail.com**
 
