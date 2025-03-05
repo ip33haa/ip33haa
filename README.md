@@ -19,7 +19,7 @@
 ###
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="background-color: transparent;">
+<div align="left" style="background-color: white;">
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
