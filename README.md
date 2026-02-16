@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Philip Garcia</h1>
-<h3 align="center">I'm an experienced Web Developer with expertise in using ASP.Net Core, ASP.Net Core API, C#, SQL Server, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. With 4 years experience as a professional Website Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
+<h3 align="center">I'm an experienced Web Developer with expertise in using ASP.Net Core, ASP.Net Core API, C#, SQL Server, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. As a professional Website Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
 
 - 🔭 I’m currently working on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
