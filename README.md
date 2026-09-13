@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Philip Garcia</h1>
-<h3 align="center">I'm an experienced Web Developer with expertise in using ASP.Net Core, ASP.Net Core API, C#, SQL Server, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. As a professional Website Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
+<h3 align="center">Senior Full Stack Developer with expertise in React, Next.js, Node.js, ASP.Net Core, ASP.Net Core API, C#, SQL Server, TypeScript, jQuery, JavaScript, WordPress. Committed to delivering high-quality software products that meet clients' needs and end-users' expectations. Proven track record of successful software solutions delivery in a dynamic environment. As a professional Full Stack Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h3>
 
-- 🔭 I’m currently working on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
+- 🔭 I'm currently working on multiple concurrent platforms at **My Money House**, including [MMH](https://mmh-v2.mymoneyhouse.com.au/), [Lendux](https://lendux-v2.mymoneyhouse.com.au/), [MPH](https://mph.mymoneyhouse.com.au/), and [Mega Rewards E-Commerce](https://e-commerce.megarewards.au/)
 
-- 🌱 I’m currently learning **React and Nextjs**
+- 🌱 I'm currently learning **Three.js and Blender for 3D web experiences**
 
-- 👯 I’m looking to collaborate on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
+- 👯 I'm looking to collaborate on [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
-- 🤝 I’m looking for help with [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
+- 🤝 I'm looking for help with [API with Clean Architecture and CQRS](https://github.com/ip33haa/My.API.Template)
 
 - 📫 How to reach me **johnphilip.garcia27@gmail.com**
 
@@ -66,6 +66,15 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:4px; padding:2px;"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/> 
+    </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
@@ -74,6 +83,18 @@
     </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.threejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40" style="background-color:white; border-radius:4px; padding:2px;"/> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
 </div>
